@@ -1,7 +1,7 @@
 import React from "react";
 import "./Navbar.css";
 
-export default function Navbar() {
+ function Navbar() {
     return (
         <nav className='navbar'>
             <h1 className='navbar-logo'>GamesVault</h1>
@@ -24,3 +24,5 @@ export default function Navbar() {
         </nav>
     );
 }
+
+export default Navbar;
