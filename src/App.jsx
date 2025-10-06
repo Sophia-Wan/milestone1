@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import GameGrid from "./components/GameGrid";
+import Navbar from "./components/NavBar.jsx";
+import GameGrid from "./components/GameGrid.jsx";
 import FakeHero from "./components/fakeHero.jsx";
 
 
