@@ -1,5 +1,5 @@
 import React from "react";
-import "./Navbar.css";
+import "./NavBar.css";
 
  function Navbar() {
     return (
@@ -16,7 +16,7 @@ import "./Navbar.css";
 
             <div className='navbar-profile'>
                 <img
-                    src='/profile-icon.svg'
+                    src='./src/assets/profile-icon.svg'
                     alt='Profile'
                     className='profile-icon'
                 />
