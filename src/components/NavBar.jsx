@@ -16,7 +16,7 @@ import "./NavBar.css";
 
             <div className='navbar-profile'>
                 <img
-                    src='./src/assets/profile-icon.svg'
+                    src='profile-icon.svg'
                     alt='Profile'
                     className='profile-icon'
                 />
