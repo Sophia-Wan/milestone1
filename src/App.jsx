@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./components/NavBar.jsx";
+import NavBar from "./components/NavBar.jsx";
 import GameGrid from "./components/GameGrid.jsx";
 import FakeHero from "./components/fakeHero.jsx";
 
